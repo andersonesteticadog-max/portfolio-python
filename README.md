@@ -3,6 +3,15 @@
 Exercícios de Python organizados em ordem crescente de complexidade, do básico
 até scripts com validação de regras de negócio e algoritmos de agenda.
 
+## Projeto principal
+
+**[luna-python](https://github.com/andersonesteticadog-max/luna-python)** —
+agente de IA para WhatsApp de um pet shop, reconstruído do zero em Python puro
+(sem framework de agente) a partir de um workflow n8n em produção. Loop de
+tool-use escrito à mão sobre a API da Anthropic, mini-CRM próprio (SQLite +
+`httpx`), memória de conversa, e pré-processamento de áudio (Groq Whisper) e
+imagem (visão nativa da Claude).
+
 ## Scripts
 
 | Script | O que mostra |
